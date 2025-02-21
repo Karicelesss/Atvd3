@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <form>
+    <form action=""></form>
+    <label for="nomec">Nome Completo:</label><br><br>
+    <input type="search" id="nomec" name="nomec"><br>
+
+
+    <label for="com">Comentario</label><br>
+    <input type="text" id="com" name="com" size="90" min="20" max="1000"><br>
+
+    <br> <label for="1">Avaliação</label><br>
+    <br><input type="radio" id="" name="reu" value="1"required>
+     <label for="1">1</label>
+
+    <br> <input type="radio" id="tre" name="tre" value="2"required>
+      <label for="treinamento">2</label>
+
+     <br><input type="radio" id="in" name="in" value="3"required>
+      <label for="3">3</label>
+
+  <br><input type="radio" id="in" name="in" value="4"required>
+      <label for="3">4</label>
+
+<br><input type="radio" id="in" name="in" value="5"required>
+      <label for="3">5</label>
+
+<br><input type="radio" id="in" name="in" value="6"required>
+      <label for="3">6</label>
+
+<br><input type="radio" id="in" name="in" value="4"required>
+      <label for="3">7</label>
+
+<br><input type="radio" id="in" name="in" value="4"required>
+      <label for="3">8/<label>
+
+    <br><input type="radio" id="in" name="in" value="4"required>
+      <label for="3">9</label>
+
+<br><input type="radio" id="in" name="in" value="4"required>
+      <label for="3">10</label>
+
+<br><br><input type="submit" value="Entrar">
+    </form>
+
+
+</body>
+</html>
